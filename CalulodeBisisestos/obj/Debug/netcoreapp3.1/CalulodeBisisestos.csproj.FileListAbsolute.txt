@@ -1,0 +1,13 @@
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/obj/Debug/netcoreapp3.1/CalulodeBisisestos.csproj.AssemblyReference.cache
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/obj/Debug/netcoreapp3.1/CalulodeBisisestos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/obj/Debug/netcoreapp3.1/CalulodeBisisestos.AssemblyInfoInputs.cache
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/obj/Debug/netcoreapp3.1/CalulodeBisisestos.AssemblyInfo.cs
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/obj/Debug/netcoreapp3.1/CalulodeBisisestos.csproj.CoreCompileInputs.cache
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/bin/Debug/netcoreapp3.1/CalulodeBisisestos.deps.json
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/bin/Debug/netcoreapp3.1/CalulodeBisisestos.runtimeconfig.json
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/bin/Debug/netcoreapp3.1/CalulodeBisisestos.runtimeconfig.dev.json
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/bin/Debug/netcoreapp3.1/CalulodeBisisestos.dll
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/bin/Debug/netcoreapp3.1/CalulodeBisisestos.pdb
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/obj/Debug/netcoreapp3.1/CalulodeBisisestos.dll
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/obj/Debug/netcoreapp3.1/CalulodeBisisestos.pdb
+/Users/Meli/Projects/CalulodeBisisestos/CalulodeBisisestos/obj/Debug/netcoreapp3.1/CalulodeBisisestos.genruntimeconfig.cache

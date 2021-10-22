@@ -1,0 +1,13 @@
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/bin/Debug/netcoreapp3.1/NumerosRomanos.deps.json
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/bin/Debug/netcoreapp3.1/NumerosRomanos.runtimeconfig.json
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/bin/Debug/netcoreapp3.1/NumerosRomanos.runtimeconfig.dev.json
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/bin/Debug/netcoreapp3.1/NumerosRomanos.dll
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/bin/Debug/netcoreapp3.1/NumerosRomanos.pdb
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/obj/Debug/netcoreapp3.1/NumerosRomanos.csproj.AssemblyReference.cache
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/obj/Debug/netcoreapp3.1/NumerosRomanos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/obj/Debug/netcoreapp3.1/NumerosRomanos.AssemblyInfoInputs.cache
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/obj/Debug/netcoreapp3.1/NumerosRomanos.AssemblyInfo.cs
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/obj/Debug/netcoreapp3.1/NumerosRomanos.csproj.CoreCompileInputs.cache
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/obj/Debug/netcoreapp3.1/NumerosRomanos.dll
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/obj/Debug/netcoreapp3.1/NumerosRomanos.pdb
+/Users/Meli/Projects/NumerosRomanos/NumerosRomanos/obj/Debug/netcoreapp3.1/NumerosRomanos.genruntimeconfig.cache

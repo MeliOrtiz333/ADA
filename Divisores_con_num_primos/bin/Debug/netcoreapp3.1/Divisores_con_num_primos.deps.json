@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Divisores_con_num_primos/1.0.0": {
+        "runtime": {
+          "Divisores_con_num_primos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divisores_con_num_primos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

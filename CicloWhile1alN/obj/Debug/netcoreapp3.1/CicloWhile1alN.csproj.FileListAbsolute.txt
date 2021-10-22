@@ -1,0 +1,13 @@
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/bin/Debug/netcoreapp3.1/CicloWhile1alN.deps.json
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/bin/Debug/netcoreapp3.1/CicloWhile1alN.runtimeconfig.json
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/bin/Debug/netcoreapp3.1/CicloWhile1alN.runtimeconfig.dev.json
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/bin/Debug/netcoreapp3.1/CicloWhile1alN.dll
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/bin/Debug/netcoreapp3.1/CicloWhile1alN.pdb
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/obj/Debug/netcoreapp3.1/CicloWhile1alN.csproj.AssemblyReference.cache
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/obj/Debug/netcoreapp3.1/CicloWhile1alN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/obj/Debug/netcoreapp3.1/CicloWhile1alN.AssemblyInfoInputs.cache
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/obj/Debug/netcoreapp3.1/CicloWhile1alN.AssemblyInfo.cs
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/obj/Debug/netcoreapp3.1/CicloWhile1alN.csproj.CoreCompileInputs.cache
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/obj/Debug/netcoreapp3.1/CicloWhile1alN.dll
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/obj/Debug/netcoreapp3.1/CicloWhile1alN.pdb
+/Users/Meli/Projects/CicloWhile1alN/CicloWhile1alN/obj/Debug/netcoreapp3.1/CicloWhile1alN.genruntimeconfig.cache

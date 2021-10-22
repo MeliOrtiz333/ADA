@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Juego\bin\Debug\netcoreapp3.1\Juego.exe
+C:\Users\melio\source\repos\Juego\bin\Debug\netcoreapp3.1\Juego.deps.json
+C:\Users\melio\source\repos\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.json
+C:\Users\melio\source\repos\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Juego\bin\Debug\netcoreapp3.1\Juego.dll
+C:\Users\melio\source\repos\Juego\bin\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\melio\source\repos\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Juego\obj\Debug\netcoreapp3.1\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfo.cs
+C:\Users\melio\source\repos\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Juego\obj\Debug\netcoreapp3.1\Juego.dll
+C:\Users\melio\source\repos\Juego\obj\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\melio\source\repos\Juego\obj\Debug\netcoreapp3.1\Juego.genruntimeconfig.cache

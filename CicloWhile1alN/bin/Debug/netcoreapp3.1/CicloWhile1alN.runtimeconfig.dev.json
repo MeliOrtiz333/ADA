@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Meli/.dotnet/store/|arch|/|tfm|",
+      "/Users/Meli/.nuget/packages"
+    ]
+  }
+}
