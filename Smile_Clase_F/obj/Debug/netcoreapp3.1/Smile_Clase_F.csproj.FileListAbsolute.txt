@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Smile_Clase_F\bin\Debug\netcoreapp3.1\Smile_Clase_F.exe
+C:\Users\melio\source\repos\Smile_Clase_F\bin\Debug\netcoreapp3.1\Smile_Clase_F.deps.json
+C:\Users\melio\source\repos\Smile_Clase_F\bin\Debug\netcoreapp3.1\Smile_Clase_F.runtimeconfig.json
+C:\Users\melio\source\repos\Smile_Clase_F\bin\Debug\netcoreapp3.1\Smile_Clase_F.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Smile_Clase_F\bin\Debug\netcoreapp3.1\Smile_Clase_F.dll
+C:\Users\melio\source\repos\Smile_Clase_F\bin\Debug\netcoreapp3.1\Smile_Clase_F.pdb
+C:\Users\melio\source\repos\Smile_Clase_F\obj\Debug\netcoreapp3.1\Smile_Clase_F.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Smile_Clase_F\obj\Debug\netcoreapp3.1\Smile_Clase_F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Smile_Clase_F\obj\Debug\netcoreapp3.1\Smile_Clase_F.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Smile_Clase_F\obj\Debug\netcoreapp3.1\Smile_Clase_F.AssemblyInfo.cs
+C:\Users\melio\source\repos\Smile_Clase_F\obj\Debug\netcoreapp3.1\Smile_Clase_F.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Smile_Clase_F\obj\Debug\netcoreapp3.1\Smile_Clase_F.dll
+C:\Users\melio\source\repos\Smile_Clase_F\obj\Debug\netcoreapp3.1\Smile_Clase_F.pdb
+C:\Users\melio\source\repos\Smile_Clase_F\obj\Debug\netcoreapp3.1\Smile_Clase_F.genruntimeconfig.cache
