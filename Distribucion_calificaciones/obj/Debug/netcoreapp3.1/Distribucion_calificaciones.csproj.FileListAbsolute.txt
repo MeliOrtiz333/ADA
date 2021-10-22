@@ -1,0 +1,5 @@
+C:\Users\melio\source\repos\Distribucion_calificaciones\obj\Debug\netcoreapp3.1\Distribucion_calificaciones.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Distribucion_calificaciones\obj\Debug\netcoreapp3.1\Distribucion_calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Distribucion_calificaciones\obj\Debug\netcoreapp3.1\Distribucion_calificaciones.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Distribucion_calificaciones\obj\Debug\netcoreapp3.1\Distribucion_calificaciones.AssemblyInfo.cs
+C:\Users\melio\source\repos\Distribucion_calificaciones\obj\Debug\netcoreapp3.1\Distribucion_calificaciones.csproj.CoreCompileInputs.cache

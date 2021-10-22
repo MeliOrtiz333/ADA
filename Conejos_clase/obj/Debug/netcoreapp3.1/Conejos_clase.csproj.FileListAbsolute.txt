@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Conejos_clase\bin\Debug\netcoreapp3.1\Conejos_clase.exe
+C:\Users\melio\source\repos\Conejos_clase\bin\Debug\netcoreapp3.1\Conejos_clase.deps.json
+C:\Users\melio\source\repos\Conejos_clase\bin\Debug\netcoreapp3.1\Conejos_clase.runtimeconfig.json
+C:\Users\melio\source\repos\Conejos_clase\bin\Debug\netcoreapp3.1\Conejos_clase.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Conejos_clase\bin\Debug\netcoreapp3.1\Conejos_clase.dll
+C:\Users\melio\source\repos\Conejos_clase\bin\Debug\netcoreapp3.1\Conejos_clase.pdb
+C:\Users\melio\source\repos\Conejos_clase\obj\Debug\netcoreapp3.1\Conejos_clase.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Conejos_clase\obj\Debug\netcoreapp3.1\Conejos_clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Conejos_clase\obj\Debug\netcoreapp3.1\Conejos_clase.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Conejos_clase\obj\Debug\netcoreapp3.1\Conejos_clase.AssemblyInfo.cs
+C:\Users\melio\source\repos\Conejos_clase\obj\Debug\netcoreapp3.1\Conejos_clase.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Conejos_clase\obj\Debug\netcoreapp3.1\Conejos_clase.dll
+C:\Users\melio\source\repos\Conejos_clase\obj\Debug\netcoreapp3.1\Conejos_clase.pdb
+C:\Users\melio\source\repos\Conejos_clase\obj\Debug\netcoreapp3.1\Conejos_clase.genruntimeconfig.cache
