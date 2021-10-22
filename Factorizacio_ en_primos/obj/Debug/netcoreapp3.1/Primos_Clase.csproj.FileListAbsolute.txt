@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Primos_Clase\obj\Debug\netcoreapp3.1\Primos_Clase.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Primos_Clase\obj\Debug\netcoreapp3.1\Primos_Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Primos_Clase\obj\Debug\netcoreapp3.1\Primos_Clase.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Primos_Clase\obj\Debug\netcoreapp3.1\Primos_Clase.AssemblyInfo.cs
+C:\Users\melio\source\repos\Primos_Clase\obj\Debug\netcoreapp3.1\Primos_Clase.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Primos_Clase\bin\Debug\netcoreapp3.1\Primos_Clase.exe
+C:\Users\melio\source\repos\Primos_Clase\bin\Debug\netcoreapp3.1\Primos_Clase.deps.json
+C:\Users\melio\source\repos\Primos_Clase\bin\Debug\netcoreapp3.1\Primos_Clase.runtimeconfig.json
+C:\Users\melio\source\repos\Primos_Clase\bin\Debug\netcoreapp3.1\Primos_Clase.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Primos_Clase\bin\Debug\netcoreapp3.1\Primos_Clase.dll
+C:\Users\melio\source\repos\Primos_Clase\bin\Debug\netcoreapp3.1\Primos_Clase.pdb
+C:\Users\melio\source\repos\Primos_Clase\obj\Debug\netcoreapp3.1\Primos_Clase.dll
+C:\Users\melio\source\repos\Primos_Clase\obj\Debug\netcoreapp3.1\Primos_Clase.pdb
+C:\Users\melio\source\repos\Primos_Clase\obj\Debug\netcoreapp3.1\Primos_Clase.genruntimeconfig.cache

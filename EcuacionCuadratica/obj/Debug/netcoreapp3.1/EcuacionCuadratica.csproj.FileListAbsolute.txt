@@ -1,0 +1,13 @@
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/obj/Debug/netcoreapp3.1/EcuacionCuadratica.csproj.AssemblyReference.cache
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/obj/Debug/netcoreapp3.1/EcuacionCuadratica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/obj/Debug/netcoreapp3.1/EcuacionCuadratica.AssemblyInfoInputs.cache
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/obj/Debug/netcoreapp3.1/EcuacionCuadratica.AssemblyInfo.cs
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/obj/Debug/netcoreapp3.1/EcuacionCuadratica.csproj.CoreCompileInputs.cache
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/bin/Debug/netcoreapp3.1/EcuacionCuadratica.deps.json
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/bin/Debug/netcoreapp3.1/EcuacionCuadratica.runtimeconfig.json
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/bin/Debug/netcoreapp3.1/EcuacionCuadratica.runtimeconfig.dev.json
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/bin/Debug/netcoreapp3.1/EcuacionCuadratica.dll
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/bin/Debug/netcoreapp3.1/EcuacionCuadratica.pdb
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/obj/Debug/netcoreapp3.1/EcuacionCuadratica.dll
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/obj/Debug/netcoreapp3.1/EcuacionCuadratica.pdb
+/Users/Meli/Projects/EcuacionCuadratica/EcuacionCuadratica/obj/Debug/netcoreapp3.1/EcuacionCuadratica.genruntimeconfig.cache

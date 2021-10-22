@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\bin\Debug\netcoreapp3.1\Divisores_de_un_numero_N.exe
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\bin\Debug\netcoreapp3.1\Divisores_de_un_numero_N.deps.json
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\bin\Debug\netcoreapp3.1\Divisores_de_un_numero_N.runtimeconfig.json
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\bin\Debug\netcoreapp3.1\Divisores_de_un_numero_N.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\bin\Debug\netcoreapp3.1\Divisores_de_un_numero_N.dll
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\bin\Debug\netcoreapp3.1\Divisores_de_un_numero_N.pdb
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\obj\Debug\netcoreapp3.1\Divisores_de_un_numero_N.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\obj\Debug\netcoreapp3.1\Divisores_de_un_numero_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\obj\Debug\netcoreapp3.1\Divisores_de_un_numero_N.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\obj\Debug\netcoreapp3.1\Divisores_de_un_numero_N.AssemblyInfo.cs
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\obj\Debug\netcoreapp3.1\Divisores_de_un_numero_N.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\obj\Debug\netcoreapp3.1\Divisores_de_un_numero_N.dll
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\obj\Debug\netcoreapp3.1\Divisores_de_un_numero_N.pdb
+C:\Users\melio\source\repos\Divisores_de_un_numero_N\obj\Debug\netcoreapp3.1\Divisores_de_un_numero_N.genruntimeconfig.cache

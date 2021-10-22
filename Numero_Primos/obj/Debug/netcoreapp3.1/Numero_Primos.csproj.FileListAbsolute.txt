@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Numero_Primos\bin\Debug\netcoreapp3.1\Numero_Primos.exe
+C:\Users\melio\source\repos\Numero_Primos\bin\Debug\netcoreapp3.1\Numero_Primos.deps.json
+C:\Users\melio\source\repos\Numero_Primos\bin\Debug\netcoreapp3.1\Numero_Primos.runtimeconfig.json
+C:\Users\melio\source\repos\Numero_Primos\bin\Debug\netcoreapp3.1\Numero_Primos.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Numero_Primos\bin\Debug\netcoreapp3.1\Numero_Primos.dll
+C:\Users\melio\source\repos\Numero_Primos\bin\Debug\netcoreapp3.1\Numero_Primos.pdb
+C:\Users\melio\source\repos\Numero_Primos\obj\Debug\netcoreapp3.1\Numero_Primos.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Numero_Primos\obj\Debug\netcoreapp3.1\Numero_Primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Numero_Primos\obj\Debug\netcoreapp3.1\Numero_Primos.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Numero_Primos\obj\Debug\netcoreapp3.1\Numero_Primos.AssemblyInfo.cs
+C:\Users\melio\source\repos\Numero_Primos\obj\Debug\netcoreapp3.1\Numero_Primos.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Numero_Primos\obj\Debug\netcoreapp3.1\Numero_Primos.dll
+C:\Users\melio\source\repos\Numero_Primos\obj\Debug\netcoreapp3.1\Numero_Primos.pdb
+C:\Users\melio\source\repos\Numero_Primos\obj\Debug\netcoreapp3.1\Numero_Primos.genruntimeconfig.cache
