@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Smile_Reloaded/1.0.0": {
+        "runtime": {
+          "Smile_Reloaded.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smile_Reloaded/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

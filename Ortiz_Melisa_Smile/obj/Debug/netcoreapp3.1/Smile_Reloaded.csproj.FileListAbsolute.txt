@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Smile_Reloaded\bin\Debug\netcoreapp3.1\Smile_Reloaded.exe
+C:\Users\melio\source\repos\Smile_Reloaded\bin\Debug\netcoreapp3.1\Smile_Reloaded.deps.json
+C:\Users\melio\source\repos\Smile_Reloaded\bin\Debug\netcoreapp3.1\Smile_Reloaded.runtimeconfig.json
+C:\Users\melio\source\repos\Smile_Reloaded\bin\Debug\netcoreapp3.1\Smile_Reloaded.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Smile_Reloaded\bin\Debug\netcoreapp3.1\Smile_Reloaded.dll
+C:\Users\melio\source\repos\Smile_Reloaded\bin\Debug\netcoreapp3.1\Smile_Reloaded.pdb
+C:\Users\melio\source\repos\Smile_Reloaded\obj\Debug\netcoreapp3.1\Smile_Reloaded.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Smile_Reloaded\obj\Debug\netcoreapp3.1\Smile_Reloaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Smile_Reloaded\obj\Debug\netcoreapp3.1\Smile_Reloaded.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Smile_Reloaded\obj\Debug\netcoreapp3.1\Smile_Reloaded.AssemblyInfo.cs
+C:\Users\melio\source\repos\Smile_Reloaded\obj\Debug\netcoreapp3.1\Smile_Reloaded.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Smile_Reloaded\obj\Debug\netcoreapp3.1\Smile_Reloaded.dll
+C:\Users\melio\source\repos\Smile_Reloaded\obj\Debug\netcoreapp3.1\Smile_Reloaded.pdb
+C:\Users\melio\source\repos\Smile_Reloaded\obj\Debug\netcoreapp3.1\Smile_Reloaded.genruntimeconfig.cache
