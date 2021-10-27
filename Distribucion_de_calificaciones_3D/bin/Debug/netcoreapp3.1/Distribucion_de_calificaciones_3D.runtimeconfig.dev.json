@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\melio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\melio\\.nuget\\packages"
+    ]
+  }
+}

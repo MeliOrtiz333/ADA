@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distribucion_de_calificaciones_3D", "Distribucion_de_calificaciones_3D.csproj", "{F7BA6B5B-363F-45A6-B4C0-4DE8F0EDC1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BA6B5B-363F-45A6-B4C0-4DE8F0EDC1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BA6B5B-363F-45A6-B4C0-4DE8F0EDC1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BA6B5B-363F-45A6-B4C0-4DE8F0EDC1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BA6B5B-363F-45A6-B4C0-4DE8F0EDC1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B493B45D-1FBD-44A3-AB40-DCD4907558F3}
+	EndGlobalSection
+EndGlobal
