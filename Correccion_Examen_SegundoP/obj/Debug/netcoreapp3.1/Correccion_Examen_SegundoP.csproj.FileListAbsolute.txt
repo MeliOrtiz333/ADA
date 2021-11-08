@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\obj\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\obj\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\obj\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\obj\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.AssemblyInfo.cs
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\obj\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\bin\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.exe
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\bin\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.deps.json
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\bin\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.runtimeconfig.json
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\bin\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\bin\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.dll
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\bin\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.pdb
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\obj\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.dll
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\obj\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.pdb
+C:\Users\melio\source\repos\Correccion_Examen_SegundoP\obj\Debug\netcoreapp3.1\Correccion_Examen_SegundoP.genruntimeconfig.cache
