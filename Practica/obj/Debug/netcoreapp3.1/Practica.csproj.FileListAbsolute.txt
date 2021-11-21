@@ -1,0 +1,14 @@
+C:\Users\melio\source\repos\Practica\bin\Debug\netcoreapp3.1\Practica.exe
+C:\Users\melio\source\repos\Practica\bin\Debug\netcoreapp3.1\Practica.deps.json
+C:\Users\melio\source\repos\Practica\bin\Debug\netcoreapp3.1\Practica.runtimeconfig.json
+C:\Users\melio\source\repos\Practica\bin\Debug\netcoreapp3.1\Practica.runtimeconfig.dev.json
+C:\Users\melio\source\repos\Practica\bin\Debug\netcoreapp3.1\Practica.dll
+C:\Users\melio\source\repos\Practica\bin\Debug\netcoreapp3.1\Practica.pdb
+C:\Users\melio\source\repos\Practica\obj\Debug\netcoreapp3.1\Practica.csproj.AssemblyReference.cache
+C:\Users\melio\source\repos\Practica\obj\Debug\netcoreapp3.1\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melio\source\repos\Practica\obj\Debug\netcoreapp3.1\Practica.AssemblyInfoInputs.cache
+C:\Users\melio\source\repos\Practica\obj\Debug\netcoreapp3.1\Practica.AssemblyInfo.cs
+C:\Users\melio\source\repos\Practica\obj\Debug\netcoreapp3.1\Practica.csproj.CoreCompileInputs.cache
+C:\Users\melio\source\repos\Practica\obj\Debug\netcoreapp3.1\Practica.dll
+C:\Users\melio\source\repos\Practica\obj\Debug\netcoreapp3.1\Practica.pdb
+C:\Users\melio\source\repos\Practica\obj\Debug\netcoreapp3.1\Practica.genruntimeconfig.cache
